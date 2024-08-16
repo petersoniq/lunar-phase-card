@@ -1,0 +1,59 @@
+{
+    "name": "Slovak",
+    "nativeName": "Slovenčina",
+    "card": {
+        "phase": {
+            "firstQuarterMoon": "Prvná štvrtina",
+            "fullMoon": "Spln",
+            "thirdQuarterMoon": "Posledná štvrtina",
+            "newMoon": "Vznikajúci",
+            "waxingCrescentMoon": "Ubývající polmesiac",
+            "waxingGibbousMoon": "Dorastajúci mesiac",
+            "waningCrescentMoon": "Rastúci polmesiaca",
+            "waningGibbousMoon": "Mesačný"
+        },
+        "illumination": "Osvetlená plocha",
+        "illuminated": "Osvetlené",
+        "moonRise": "Východ",
+        "moonSet": "Západ",
+        "moonHigh": "Mesiac vysoko",
+        "moonAge": "Vek Mesiaca",
+        "distance": "Vzdialenosť",
+        "azimuth": "Azimut",
+        "altitude": "Výška",
+        "fullMoon": "Spln",
+        "newMoon": "Nový mesiac",
+        "relativeTime": {
+            "days": "dni",
+            "justNow": "práve teraz",
+            "minutesAgo": "pred {0} minutami",
+            "hoursAgo": "pred {0} hodinami",
+            "inMinutes": "za {0} minút",
+            "inHours": "za {0} hodín"
+        }
+    },
+    "editor": {
+        "viewConfig": {
+            "title": "Jazyk a zobrazenie",
+            "description": "Nastavte konfiguráciu pre jazyk a pozadie"
+        },
+        "baseConfig": {
+            "title": "Zemepisná širka a dĺžka",
+            "description": "Nastavte konfiguráciu pre zemepisnú širku a dĺžku"
+        },
+        "optionsConfig": {
+            "useDefault": "Použiť pôvodné",
+            "useEntity": "Použiť entitu",
+            "useCustom": "Použiť vlastnú"
+        },
+        "compactView": "Kompaktné zobrazenie",
+        "showBackground": "Zobraziť pozadie",
+        "timeFormat": "12-hodinový formát času",
+        "placeHolder": {
+            "latitude": "Zadajte zemepisnú šířku",
+            "longitude": "Zadajte zemepisnú dĺžku",
+            "customBackground": "URL alebo cesta k obrázku",
+            "language": "Vyberte jazyk"
+        }
+    }
+}
